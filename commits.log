@@ -1,0 +1,73 @@
+commit 009564e652dac34ab35239ce10df1273256d4266
+Merge: 5fc4313 a6ae9df
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Thu Sep 8 18:08:27 2022 -0300
+
+    Resolviendo conlicto en estaciones del año con fecha de inicio
+
+commit 5fc431303b3faf0a7ac3cf4656c075d6693316c9
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Thu Sep 8 17:45:18 2022 -0300
+
+    Agregando estaciones del año con fechas de inicio
+
+commit a6ae9df61f461d1d62767d311377517bfc056bf8
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Thu Sep 8 17:45:18 2022 -0300
+
+    Agregando estacioneslas estaciones del año
+
+commit a15f0cff9b097a15c46414bfef1d0b4ca4aeb698
+Merge: dea24e7 bb70fa1
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Wed Sep 7 17:06:12 2022 -0300
+
+    Resolviendo conflicto de merge entre diferentes ramas main/html en el index.html
+
+commit bb70fa1b66626c020786fc118e00d897ce9be949
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Wed Sep 7 16:58:06 2022 -0300
+
+    Agregando elementos al html desde la rama html
+
+commit dea24e785a27a1b36e7111f24f7d8c34209dfddc
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Wed Sep 7 16:56:35 2022 -0300
+
+    Agregando elementos al html
+
+commit 7c9526f4bdecb720508756d7890d11c44ee84c2b
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Fri Sep 2 19:45:16 2022 -0300
+
+    Creando index.js
+
+commit 4009c95ee932fa8917deb137fb80dcf0c10512e8
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Fri Sep 2 14:47:37 2022 -0300
+
+    Creando index.html
+
+commit ac7e3e7c185fb49f87dfbb23f3565cda4fdb4d13
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Fri Sep 2 14:42:02 2022 -0300
+
+    Eliminando de la rama main el archivo index.html
+
+commit e2d401b5237c06914d84a6a2502424800653b709
+Author: Matias Sierra <88603473+MatiSierraDev@users.noreply.github.com>
+Date:   Tue Aug 30 12:35:59 2022 -0300
+
+    Creando el index.html
+
+commit 39d301b730c3d593e33780aa05298c5d2b3fa748
+Author: Matias Sierra <88603473+MatiSierraDev@users.noreply.github.com>
+Date:   Tue Aug 30 12:20:37 2022 -0300
+
+    Creando licencia del repositorio
+
+commit bde37a5502165753c57eda43abcb2555920af2f2
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Tue Aug 30 11:46:19 2022 -0300
+
+    First commit

@@ -1,0 +1,16 @@
+*   009564e Resolviendo conlicto en estaciones del año con fecha de inicio
+|\  
+| * a6ae9df Agregando estacioneslas estaciones del año
+* | 5fc4313 Agregando estaciones del año con fechas de inicio
+|/  
+*   a15f0cf Resolviendo conflicto de merge entre diferentes ramas main/html en el index.html
+|\  
+| * bb70fa1 Agregando elementos al html desde la rama html
+* | dea24e7 Agregando elementos al html
+* | 7c9526f Creando index.js
+|/  
+* 4009c95 Creando index.html
+* ac7e3e7 Eliminando de la rama main el archivo index.html
+* e2d401b Creando el index.html
+* 39d301b Creando licencia del repositorio
+* bde37a5 First commit

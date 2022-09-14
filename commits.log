@@ -1,3 +1,54 @@
+commit dafa180ffc8e8964d518ee2f8b0bd32d451d4456
+Merge: 9fe39ff cef0f77
+Author: Matias Sierra <88603473+MatiSierraDev@users.noreply.github.com>
+Date:   Wed Sep 14 10:34:36 2022 -0300
+
+    Merge pull request #1 from matijpg/readme-matijpg
+    
+    Readme matijpg
+
+commit cef0f77a6765934b677386a41fca49a96f839f3b
+Author: matijpg <hernanmatiassierra@gmail.com>
+Date:   Wed Sep 14 10:21:08 2022 -0300
+
+    Cambios al reademe del repositorio
+
+commit 821797ae86bdbbf5598e5b57b8fe3f0ed2f126d4
+Author: matijpg <hernanmatiassierra@gmail.com>
+Date:   Wed Sep 14 10:04:42 2022 -0300
+
+    Probando el cache de credenciales
+
+commit a4c9393f13bb742e4c18a20a002ba3424c67ccdc
+Author: matijpg <hernanmatiassierra@gmail.com>
+Date:   Wed Sep 14 09:53:14 2022 -0300
+
+    Cambio de prueba en la cuenta secundaria
+
+commit 9fe39ff05e721bcb74944e8b68d5425f586d754c
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Tue Sep 13 20:39:22 2022 -0300
+
+    Readme creado
+
+commit eb8e1bd39490394f8046061eddce76512c89e485
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Tue Sep 13 20:37:27 2022 -0300
+
+    Readme eliminado
+
+commit 11e9486ba129c3f7dc774dfeff9fb6bd1bb14f2b
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Tue Sep 13 20:14:04 2022 -0300
+
+    v1.0.0
+
+commit 528612302bd7c52e2bfb168d3917cef9c2a7f486
+Author: matiraw <matisierra.develop@gmail.com>
+Date:   Tue Sep 13 11:10:18 2022 -0300
+
+    Respaldo de logs del repositorio
+
 commit 009564e652dac34ab35239ce10df1273256d4266
 Merge: 5fc4313 a6ae9df
 Author: matiraw <matisierra.develop@gmail.com>
